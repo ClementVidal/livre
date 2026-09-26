@@ -22,7 +22,7 @@ Entrée dans le roman par le présent de 2100. Le lecteur découvre le monde tel
 ## Structure
 
 **Ouverture — Le souvenir du vivant disparu**
-Un souvenir d'enfance : le *Lucanus cervus* (lucane cerf-volant), aperçu un soir de juin au crépuscule dans un jardin du Beaujolais. Espèce disparue dans les années 2040 — victime des pesticides d'une filiale agrochimique de la Tétrarchie. Ce détail infime porte toute la perte du monde d'avant.
+Un souvenir d'enfance : le *Lucanus cervus* (lucane cerf-volant), aperçu un soir de juin au crépuscule dans les collines d'un village de Provence (par exemple Peypin). Espèce disparue dans les années 2040 — victime des pesticides d'une filiale agrochimique de la Tétrarchie. Ce détail infime porte toute la perte du monde d'avant.
 
 **La Continuité**
 Le mot qu'utilisent les gens de son âge pour désigner 80 ans de choix reconduits :
@@ -35,7 +35,7 @@ Formule centrale : *"Nous avons vu, nous avons su, et nous n'avons pas réussi �
 **Le monde de 2100 vu depuis Marseille**
 - Son appartement : loyer payé à une SCI → holding → fonds → Tétrarchie
 - Marseille transformée par les décennies de canicules, d'exodes et de bétonisation — méconnaissable, pas submergée
-- L'eau (HydraCore) en abonnement mensuel, livrée par drone
+- L'eau (HydraCore) facturée à un prix exorbitant, distribuée par les anciennes infrastructures publiques accaparées par la Tétrarchie
 - Le désastre climatique n'a pas tué le capitalisme — il l'a nourri
 
 **La chute**
@@ -47,8 +47,8 @@ Elle hésite trois secondes. Elle appuie.
 ---
 
 ## Éléments à ne pas oublier
-- [ ] Le lucane cerf-volant : biotope exact (Beaujolais, vieux chênes, crépuscule de juin) — cohérent avec l'habitat réel de l'espèce
-- [ ] HydraCore : nom de la filiale eau de la Tétrarchie
+- [ ] Le lucane cerf-volant : biotope exact (collines de Provence autour de Peypin, vieux chênes, crépuscule de juin) — cohérent avec l'habitat réel de l'espèce
+- [ ] HydraCore : nom de la filiale eau de la Tétrarchie — prix exorbitant, réseau public accaparé, pas de livraison par drone
 - [ ] La Continuité : terme entré dans le langage dans les années 2060
 - [ ] Pas de catastrophe spectaculaire — tout est graduel, insidieux
 - [ ] Marta ne connaît pas encore le chiffre des 75 % — elle le découvrira en ouvrant le lien

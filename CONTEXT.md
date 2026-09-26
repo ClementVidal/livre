@@ -51,7 +51,7 @@ Formule : *"Nous avons vu, nous avons su, et nous n'avons pas réussi à faire c
 Réseau internet pair-à-pair physique, fonctionnant sur fréquences indétectables. Chaque utilisateur est un nœud. Indestructible par définition. Créé par le Professeur, libéré en open source. Permet de briser le blocus médiatique de la Tétrarchie et d'héberger le procès de 2100.
 
 ### HydraCore
-Filiale eau de la Tétrarchie. L'eau est vendue en abonnement mensuel, livrée par drone.
+Filiale eau de la Tétrarchie. L'eau est facturée à un prix exorbitant et distribuée par les anciennes infrastructures publiques, accaparées par la Tétrarchie. Pas de livraison par drone.
 
 ---
 
