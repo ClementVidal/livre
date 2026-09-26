@@ -31,6 +31,10 @@ Terme entré dans le langage courant dans les années 2060. Forgé par la géné
 
 *"Nous avons vu, nous avons su, et nous n'avons pas réussi à faire changer les choses."*
 
+### HydraCore
+
+Filiale eau de la Tétrarchie. L'eau est facturée à un prix exorbitant et distribuée par les anciennes infrastructures publiques, accaparées par la Tétrarchie. Pas de livraison par drone.
+
 ---
 
 ## II. LES TROIS MOUVEMENTS DE LA RÉSISTANCE
