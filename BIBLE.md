@@ -35,6 +35,12 @@ Terme entré dans le langage courant dans les années 2060. Forgé par la géné
 
 Filiale eau de la Tétrarchie. L'eau est facturée à un prix exorbitant et distribuée par les anciennes infrastructures publiques, accaparées par la Tétrarchie. Pas de livraison par drone.
 
+### Haber
+
+Filiale agrochimique de la Tétrarchie. Ses pesticides ont provoqué la disparition du lucane cerf-volant (*Lucanus cervus*) dans les années 2040.
+
+*Nom :* hommage à Fritz Haber — chimiste allemand, prix Nobel 1918 pour la synthèse de l'ammoniac (procédé Haber-Bosch, base des engrais industriels), et père de l'arme chimique (chlore à Ypres, 1915). La même science nourrit et tue.
+
 ---
 
 ## II. LES TROIS MOUVEMENTS DE LA RÉSISTANCE

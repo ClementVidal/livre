@@ -53,6 +53,9 @@ Réseau internet pair-à-pair physique, fonctionnant sur fréquences indétectab
 ### HydraCore
 Filiale eau de la Tétrarchie. L'eau est facturée à un prix exorbitant et distribuée par les anciennes infrastructures publiques, accaparées par la Tétrarchie. Pas de livraison par drone.
 
+### Haber
+Filiale agrochimique de la Tétrarchie, nommée en hommage à Fritz Haber. Ses pesticides ont fait disparaître le lucane cerf-volant dans les années 2040.
+
 ---
 
 ## Les trois mouvements de résistance

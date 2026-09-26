@@ -22,7 +22,7 @@ Entrée dans le roman par le présent de 2100. Le lecteur découvre le monde tel
 ## Structure
 
 **Ouverture — Le souvenir du vivant disparu**
-Un souvenir d'enfance : le *Lucanus cervus* (lucane cerf-volant), aperçu un soir de juin au crépuscule dans les collines d'un village de Provence (par exemple Peypin). Espèce disparue dans les années 2040 — victime des pesticides d'une filiale agrochimique de la Tétrarchie. Ce détail infime porte toute la perte du monde d'avant.
+Un souvenir d'enfance : le *Lucanus cervus* (lucane cerf-volant), aperçu un soir de juin au crépuscule dans les collines d'un village de Provence (par exemple Peypin). Espèce disparue dans les années 2040 — victime des pesticides de Haber, la filiale agrochimique de la Tétrarchie. Ce détail infime porte toute la perte du monde d'avant.
 
 **La Continuité**
 Le mot qu'utilisent les gens de son âge pour désigner 80 ans de choix reconduits :
