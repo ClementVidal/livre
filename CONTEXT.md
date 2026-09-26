@@ -71,7 +71,7 @@ Filiale eau de la Tétrarchie. L'eau est vendue en abonnement mensuel, livrée p
 |------------|------|-------|
 | **Marta** | Protagoniste, 83 ans, Marseille | Génération charnière — a tout vu venir. Point d'entrée du roman (ch01) |
 | **K. Andersen** | Journaliste norvégien, *Nordlys Fritt* | Héritier narratif d'Ida Tarbell. Co-auteur du rapport des 75 % |
-| **E. Moreau** | Jeune économiste français | Fondateur du Syndicat. Co-auteur du rapport avec Andersen |
+| **E. Moreau** | Jeune économiste français | L'un des premiers membres du Syndicat. Co-auteur du rapport avec Andersen |
 | **Le Professeur** | Père du Mesh | Ancien architecte réseau des corporations. Assassiné au ch06. Son code lui survit |
 
 ### Références historiques

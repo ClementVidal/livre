@@ -10,7 +10,7 @@ L'humanité est asphyxiée par une dette démesurée. Toutes les grandes puissan
 
 La prise de conscience globale naît de la rencontre entre deux hommes : un jeune économiste, l'un des premiers à avoir rejoint le Syndicat du Bien Commun à ses tout débuts, et un journaliste d'investigation norvégien travaillant pour le **Nordlys Fritt** *("Lumière du Nord Libre")*, l'un des derniers grands journaux indépendants d'Europe. Leur collaboration accouche d'un rapport conjoint que personne ne parvient à réfuter :
 
-- En **2100**, la Tétrarchie possède déjà **85 %** de la totalité des richesses et des propriétés de la Terre.
+- En **2100**, la Tétrarchie possède déjà **75 %** de la totalité des richesses et des propriétés de la Terre.
 - En **2150**, les projections prévoient **99,9 %**. Le citoyen ordinaire sera condamné à être locataire de sa propre vie.
 
 ### La Propagande Corporative — Le Retournement Sémantique
@@ -84,5 +84,5 @@ Déploiement d'une armée privée de drones et de robotique. Guerre physique tot
 |------------|------|-------------|
 | **Marta** | Témoin de la Continuité, 83 ans | Française (Marseille) |
 | **K. Andersen** | Journaliste d'investigation, *Nordlys Fritt* | Norvégien |
-| **E. Moreau** | Jeune économiste, fondateur du Syndicat | Français |
+| **E. Moreau** | Jeune économiste, l'un des premiers membres du Syndicat | Français |
 | **Le Professeur** | Père du Mesh, martyr | À définir |
