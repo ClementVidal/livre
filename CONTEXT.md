@@ -23,6 +23,8 @@ Les fichiers `chapitres/chXX_*.md` contiennent uniquement :
 
 **Jamais de prose rédigée dans le repo.** L'auteur écrit lui-même.
 
+**Référentiel :** [`BIBLE.md`](BIBLE.md) est la référence pour tous les termes, concepts et acteurs de l'œuvre.
+
 ---
 
 ## L'univers
